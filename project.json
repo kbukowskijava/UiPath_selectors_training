@@ -1,7 +1,7 @@
 {
   "name": "Selectors",
   "description": "UiPath selectors training\r\n",
-  "main": "Main.xaml",
+  "main": "fine_tuning.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.10.4]",
     "UiPath.Mail.Activities": "[1.10.5]",
@@ -37,13 +37,13 @@
       "ignoredFiles": []
     },
     "fileInfoCollection": [],
-    "modernBehavior": true
+    "modernBehavior": false
   },
   "expressionLanguage": "VisualBasic",
   "entryPoints": [
     {
-      "filePath": "Main.xaml",
-      "uniqueId": "e6f7eea7-f220-4feb-9d9e-9f218a15d2f3",
+      "filePath": "fine_tuning.xaml",
+      "uniqueId": "2fb37049-08c4-4928-8b37-ccd0754ce25a",
       "input": [],
       "output": []
     }
