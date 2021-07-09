@@ -1,7 +1,7 @@
 {
   "name": "Selectors",
   "description": "UiPath selectors training\r\n",
-  "main": "Difficult Situations.xaml",
+  "main": "Practice 1.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.10.4]",
     "UiPath.Mail.Activities": "[1.10.5]",
@@ -50,6 +50,12 @@
     {
       "filePath": "Difficult Situations.xaml",
       "uniqueId": "66390729-3566-42ec-95c5-0f006a7b35df",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "Practice 1.xaml",
+      "uniqueId": "36cfc2f1-696a-44c1-9d09-53a300fa8b75",
       "input": [],
       "output": []
     }
